@@ -1,0 +1,149 @@
+project:
+  type: book
+
+book:
+  title: "Moral Letters to Lucilius"
+  author: "Seneca"
+  translator: "Richard Mott Gummere"
+  keyword: "stoic stoicism seneca philosophy letters"
+  search: true
+  cover-image: images/cover.jpg
+  favicon: images/favicon.png
+  image: images/preview.jpg
+  chapters:
+    - index.qmd
+    - on-saving-time.qmd
+    - on-discursiveness-in-reading.qmd
+    - on-true-and-false-friendship.qmd
+    - on-the-terrors-of-death.qmd
+    - on-the-philosophers-mean.qmd
+    - on-sharing-knowledge.qmd
+    - on-crowds.qmd
+    - on-the-philosophers-seclusion.qmd
+    - on-philosophy-and-friendship.qmd
+    - on-living-to-oneself.qmd
+    - on-the-blush-of-modesty.qmd
+    - on-old-age.qmd
+    - on-groundless-fears.qmd
+    - on-the-reasons-for-withdrawing-from-the-world.qmd
+    - on-brawn-and-brains.qmd
+    - on-philosophy-the-guide-of-life.qmd
+    - on-philosophy-and-riches.qmd
+    - on-festivals-and-fasting.qmd
+    - on-worldliness-and-retirement.qmd
+    - on-practising-what-you-preach.qmd
+    - on-the-renown-which-my-writings-will-bring-you.qmd
+    - on-the-futility-of-half-way-measures.qmd
+    - on-the-true-joy-which-comes-from-philosophy.qmd
+    - on-despising-death.qmd
+    - on-reformation.qmd
+    - on-old-age-and-death.qmd
+    - on-the-good-which-abides.qmd
+    - on-travel-as-a-cure-for-discontent.qmd
+    - on-the-critical-condition-of-marcellinus.qmd
+    - on-conquering-the-conqueror.qmd
+    - on-siren-songs.qmd
+    - on-progress.qmd
+    - on-the-futility-of-learning-maxims.qmd
+    - on-a-promising-pupil.qmd
+    - on-the-friendship-of-kindred-minds.qmd
+    - on-the-value-of-retirement.qmd
+    - on-allegiance-to-virtue.qmd
+    - on-quiet-conversation.qmd
+    - on-noble-aspirations.qmd
+    - on-the-proper-style-for-a-philosophers-discourse.qmd
+    - on-the-god-within-us.qmd
+    - on-values.qmd
+    - on-the-relativity-of-fame.qmd
+    - on-philosophy-and-pedigrees.qmd
+    - on-sophistical-argumentation.qmd
+    - on-a-new-book-by-lucilius.qmd
+    - on-master-and-slave.qmd
+    - on-quibbling-as-unworthy-of-the-philosopher.qmd
+    - on-the-shortness-of-life.qmd
+    - on-our-blindness-and-its-cure.qmd
+    - on-baiae-and-morals.qmd
+    - on-choosing-our-teachers.qmd
+    - on-the-faults-of-the-spirit.qmd
+    - on-asthma-and-death.qmd
+    - on-vatias-villa.qmd
+    - on-quiet-and-study.qmd
+    - on-the-trials-of-travel.qmd
+    - on-being.qmd
+    - on-pleasure-and-joy.qmd
+    - on-harmful-prayers.qmd
+    - on-meeting-death-cheerfully.qmd
+    - on-good-company.qmd
+    - on-grief-for-lost-friends.qmd
+    - on-the-philosophers-task.qmd
+    - on-the-first-cause.qmd
+    - on-various-aspects-of-virtue.qmd
+    - on-ill-health-and-endurance-of-suffering.qmd
+    - on-wisdom-and-retirement.qmd
+    - on-rest-and-restlessness.qmd
+    - on-the-proper-time-to-slip-the-cable.qmd
+    - on-the-supreme-good.qmd
+    - on-business-as-the-enemy-of-philosophy.qmd
+    - on-philosophers-and-kings.qmd
+    - on-virtue-as-a-refuge-from-worldly-distractions.qmd
+    - on-the-diseases-of-the-soul.qmd
+    - on-learning-wisdom-in-old-age.qmd
+    - on-taking-ones-own-life.qmd
+    - on-the-healing-power-of-the-mind.qmd
+    - on-the-rewards-of-scientific-discovery.qmd
+    - on-worldly-deceptions.qmd
+    - on-benefits.qmd
+    - on-the-natural-fear-of-death.qmd
+    - on-drunkenness.qmd
+    - on-gathering-ideas.qmd
+    - on-some-vain-syllogisms.qmd
+    - on-scipios-villa.qmd
+    - some-arguments-in-favour-of-the-simple-life.qmd
+    - on-liberal-and-vocational-studies.qmd
+    - on-the-parts-of-philosophy.qmd
+    - on-the-part-played-by-philosophy-in-the-progress-of-man.qmd
+    - on-the-lesson-to-be-drawn-from-the-burning-of-lyons.qmd
+    - on-the-happy-life.qmd
+    - on-the-quality-as-contrasted-with-the-length-of-life.qmd
+    - on-the-value-of-advice.qmd
+    - on-the-usefulness-of-basic-principles.qmd
+    - on-facing-hardships.qmd
+    - on-the-degeneracy-of-the-age.qmd
+    - on-the-fickleness-of-fortune.qmd
+    - on-consolation-to-the-bereaved.qmd
+    - on-the-writings-of-fabianus.qmd
+    - on-the-futility-of-planning-ahead.qmd
+    - on-the-intimations-of-our-immortality.qmd
+    - on-the-dangers-of-association-with-our-fellow-men.qmd
+    - on-care-of-health-and-peace-of-mind.qmd
+    - on-facing-the-world-with-confidence.qmd
+    - on-the-corporeality-of-virtue.qmd
+    - on-obedience-to-the-universal-will.qmd
+    - on-the-approaches-to-philosophy.qmd
+    - on-the-fellowship-of-wise-men.qmd
+    - on-true-and-false-riches.qmd
+    - on-the-vanity-of-mental-gymnastics.qmd
+    - on-reforming-hardened-sinners.qmd
+    - on-the-vitality-of-the-soul-and-its-attributes.qmd
+    - on-style-as-a-mirror-of-character.qmd
+    - on-the-superficial-blessings.qmd
+    - on-self-control.qmd
+    - on-real-ethics-as-superior-to-syllogistic-subtleties.qmd
+    - on-the-vanity-of-place-seeking.qmd
+    - on-nature-as-our-best-provider.qmd
+    - more-about-virtue.qmd
+    - on-instinct-in-animals.qmd
+    - on-darkness-as-a-veil-for-wickedness.qmd
+    - on-the-conflict-between-pleasure-and-virtue.qmd
+    - on-the-true-good-as-attained-by-reason.qmd
+    
+format:
+  html:
+    theme: [cosmo, theme.css]
+  pdf:
+    documentclass: scrreprt
+
+  epub:
+    cover-image: images/cover.jpg
+
+

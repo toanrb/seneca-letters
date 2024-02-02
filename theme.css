@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+main {
+  text-align: justify !important;
+  text-indent: 2em;
+}
+
+main h1, main li, main blockquote {
+  text-indent: 0;
+}
+
+main li {
+  text-align: left;
+}
+
+main a {
+  text-decoration: none;
+}
