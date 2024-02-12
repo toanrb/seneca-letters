@@ -3,13 +3,17 @@ project:
 
 book:
   title: "Moral Letters to Lucilius"
+  description: "124 letters from Seneca to Lucilius"
   author: "Seneca"
   translator: "Richard Mott Gummere"
   keyword: "stoic stoicism seneca philosophy letters"
   search: true
   cover-image: images/cover.jpg
   favicon: images/favicon.png
-  image: images/preview.jpg
+  open-graph:
+    image: images/preview.jpg
+    image-width: 1200
+    image-height: 630
   chapters:
     - index.qmd
     - on-saving-time.qmd
@@ -139,7 +143,9 @@ book:
     
 format:
   html:
-    theme: [cosmo, theme.css]
+    theme:
+      light: [cosmo, theme.css]
+      dark: [darky, theme.css]
   pdf:
     documentclass: scrreprt
 
