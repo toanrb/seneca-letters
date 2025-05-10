@@ -7,7 +7,9 @@ book:
   author: "Seneca"
   translator: "Richard Mott Gummere"
   keyword: "stoic stoicism seneca philosophy letters"
-  search: true
+  reader-mode: true
+  search:
+    type: overlay
   cover-image: images/cover.jpg
   favicon: images/favicon.png
   open-graph:
@@ -143,9 +145,11 @@ book:
     
 format:
   html:
+    toc: false
+    fontsize: 22px
     theme:
       light: [cosmo, theme.css]
-      dark: [darky, theme.css]
+      dark: [darkly, theme.css]
   pdf:
     documentclass: scrreprt
 
