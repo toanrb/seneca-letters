@@ -1,8 +1,8 @@
 /*-- scss:defaults --*/
 
-main {
+main p{
   text-align: justify !important;
-  text-indent: 2em;
+  text-indent: 1rem;
 }
 
 main h1, main li, main blockquote {
@@ -15,4 +15,16 @@ main li {
 
 main a {
   text-decoration: none;
+}
+
+main ul li p, main ol li p, .no-indent p{
+  text-indent: 0;
+}
+
+ul, ol {
+  margin-left: 1rem;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title h1.title {
+  margin-bottom: 1rem;
 }

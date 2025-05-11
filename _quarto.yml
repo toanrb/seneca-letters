@@ -148,8 +148,8 @@ format:
     toc: false
     fontsize: 22px
     theme:
-      light: [cosmo, theme.css]
       dark: [darkly, theme.css]
+      light: [cosmo, theme.css]
   pdf:
     documentclass: scrreprt
 
